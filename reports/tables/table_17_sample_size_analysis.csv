@@ -1,0 +1,9 @@
+RQ,Method,Assumption,Effect_Size,Effect_Size_Metric,Alpha,Target_Power,Required_N,Actual_N,Nominal_Achieved_Power
+RQ1,Balanced one-way ANOVA sensitivity,Small,0.1,Cohen f,0.05,0.8,1510.0,676,0.39814631585875104
+RQ1,Balanced one-way ANOVA sensitivity,Medium,0.25,Cohen f,0.05,0.8,249.0,676,0.9993526577399111
+RQ1,Balanced one-way ANOVA sensitivity,Large,0.4,Cohen f,0.05,0.8,102.0,676,0.9999999999979416
+RQ2,Multiple-regression global F sensitivity,Small,0.02,Cohen f-squared,0.05,0.8,759.0,676,0.7414697247819553
+RQ2,Multiple-regression global F sensitivity,Medium,0.15,Cohen f-squared,0.05,0.8,109.0,676,0.9999999999814079
+RQ2,Multiple-regression global F sensitivity,Large,0.35,Cohen f-squared,0.05,0.8,52.0,676,1.0
+RQ3,Chronological learning curve and validation stability,Predictive adequacy,,Not applicable,,,,676,
+RQ4,Exploratory interaction with observed cell-count audit,Sparse and unbalanced cells,,Not estimated,0.05,0.8,,676,

@@ -1,0 +1,9 @@
+Variable,Initial_Status,Reason
+qty,Target only,Demand outcome; cannot be used as its own predictor.
+total_price,Exclude,Contains current quantity and price information; direct target leakage risk.
+calculated_revenue,Exclude,Defined as current qty multiplied by unit_price; direct target leakage.
+lag_price,Exclude pending validation,Supplied feature construction is not fully documented and differs in some rows.
+recalculated_lag_price,Candidate,Transparent previous observed price created chronologically by product.
+previous_qty,Candidate,Previous observed demand created with shift(1); unavailable for first product record.
+unit_price,Candidate and decision variable,Price is required to estimate the price-demand association and simulate revenue.
+month_year,Do not use directly,Use derived calendar or ordered-time features instead of the raw timestamp.

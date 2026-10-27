@@ -1,0 +1,5 @@
+Research_Question,Preliminary_Conclusion,Status
+RQ1,Welch ANOVA p=3.073e-17; descriptive eta-squared=0.1677.,Preliminary statistical result
+RQ2,"Conditional log-unit-price coefficient=-0.0042, clustered p=0.9693. This is associational.",Preliminary association model
+RQ3,Best validation model by RMSE: Previous quantity baseline. The test partition remains untouched.,Preliminary out-of-time validation
+RQ4,The interaction is exploratory because 5 category-position cells contain fewer than five observations.,Exploratory

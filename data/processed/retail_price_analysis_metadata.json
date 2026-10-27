@@ -1,0 +1,16 @@
+{
+  "source_file": "C:\\OneDrive\\OneDrive - Tredence\\Desktop\\Price Optimization\\retail-price-optimization-capstone\\data\\raw\\retail_price_cleaned.csv",
+  "output_file": "C:\\OneDrive\\OneDrive - Tredence\\Desktop\\Price Optimization\\retail-price-optimization-capstone\\data\\processed\\retail_price_analysis_ready.csv",
+  "rows": 676,
+  "columns": 52,
+  "observation_unit": "product-month",
+  "products": 52,
+  "categories": 9,
+  "months": 20,
+  "date_min": "2017-01-01",
+  "date_max": "2018-08-01",
+  "random_state": 42,
+  "target_for_demand_modelling": "qty",
+  "pricing_decision_variable": "unit_price",
+  "optimization_objective": "simulated predicted revenue, not profit"
+}

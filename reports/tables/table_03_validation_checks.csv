@@ -1,0 +1,8 @@
+Validation_Check,Flagged_Rows
+qty <= 0,0
+unit_price <= 0,0
+freight_price < 0,0
+product_score outside 0-5,0
+comp_1 <= 0,0
+comp_2 <= 0,0
+comp_3 <= 0,0

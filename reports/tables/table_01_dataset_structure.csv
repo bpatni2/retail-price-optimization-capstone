@@ -1,0 +1,10 @@
+Measure,Value
+Rows,676
+Columns,30
+Unique products,52
+Product categories,9
+Distinct months,20
+First month,January 2017
+Last month,August 2018
+Exact duplicate rows,0
+Duplicate product-month records,0

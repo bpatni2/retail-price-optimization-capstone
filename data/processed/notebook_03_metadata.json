@@ -1,0 +1,13 @@
+{
+  "rows": 676,
+  "products": 52,
+  "categories": 9,
+  "train_rows": 418,
+  "validation_rows": 138,
+  "test_rows": 120,
+  "best_validation_model": "Previous quantity baseline",
+  "test_set_used_for_model_selection": false,
+  "random_state": 42,
+  "target": "qty",
+  "interpretation": "Associational analysis; simulated revenue is not causal uplift or profit."
+}

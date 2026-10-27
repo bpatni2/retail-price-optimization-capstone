@@ -1,0 +1,5 @@
+Test,Statistic,p_value,Interpretation_Role
+Levene median,22.916747011988242,4.385151095753661e-31,Variance diagnostic
+Welch ANOVA,15.111513131671877,3.073491792570174e-17,Primary omnibus comparison
+Kruskal-Wallis,63.06119679827353,1.1652379148441136e-10,Robust sensitivity comparison
+Eta-squared,0.16774944049967533,,Descriptive effect size

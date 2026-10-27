@@ -1,0 +1,4 @@
+data_partition,rows,products,categories,months,first_month,last_month,mean_qty
+Train,418,52,9,14,2017-01-01,2018-02-01,14.552631578947368
+Validation,138,50,9,3,2018-03-01,2018-05-01,17.985507246376812
+Test,120,43,9,3,2018-06-01,2018-08-01,10.283333333333333
